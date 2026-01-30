@@ -6,7 +6,7 @@ Disc spinner 3lb (beetleweight) battlebot
   <img width="1238" height="757" alt="image" src="https://github.com/user-attachments/assets/a8a8b687-7a27-4d38-9b2c-a5b4fedd7161" />
 
 
-Streetsweeper is a two wheel, high energy disc spinner beetleweight battlebot built for NHRL competitions. It features large wheels powered by Dartbox Gecko motors for maximum agility and nimbleness around arenas. It also features a large high energy disc spinner mounted under the chassis powered by a PropDrive 3536 motor to deliver huge hits with high impact energy and bite. Overall, this bot is also quite defensive, featuring solid wheelguards, aluminum chassis armor, and an angled front, mitigating impacts from opponents.
+Streetsweeper is a two wheel, high energy disc spinner beetleweight battlebot built for NHRL competitions. It features large wheels powered by Dartbox Gecko motors for maximum agility and nimbleness around arenas. It also features a large, high inertia disc spinner mounted under the chassis powered by a PropDrive 3536 motor to deliver huge hits with high impact energy and bite. Overall, this bot is also quite defensive, featuring solid wheelguards, aluminum chassis armor, and an angled front, mitigating impacts from opponents.
 
 
 ## Reason for design
