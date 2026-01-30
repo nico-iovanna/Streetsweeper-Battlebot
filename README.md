@@ -22,7 +22,8 @@ I intend to finish building the bot before spring break, and if it's successful,
 ## Wiring Diagram
 
 <p align="center">
-  <img width="1169" height="726" alt="image" src="https://github.com/user-attachments/assets/2377e271-d058-4b4c-a721-9f9bf8b965d1" />
+  <img width="925" height="722" alt="image" src="https://github.com/user-attachments/assets/20169542-a6ec-4d0b-8751-0186fb12e67c" />
+
 
 
 ## 📝 BOM
