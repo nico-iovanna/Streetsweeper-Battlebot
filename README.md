@@ -1,5 +1,6 @@
 # Streetsweeper Battlebot
 Disc spinner 3lb (beetleweight) battlebot
+Link to Onshape where I cadded the project: https://cad.onshape.com/documents/a0d0823d83561e56d5bcbd01/w/91874c235ffa0aab1462d92a/e/1024b7bd5e9c2e19d384065c?renderMode=0&uiState=69c7332daafa459193ab6b73
 
 <p align="center">
   <img width="1161" height="721" alt="image" src="https://github.com/user-attachments/assets/90df0e35-b2a5-4089-b4ef-25e2510b6170" />
